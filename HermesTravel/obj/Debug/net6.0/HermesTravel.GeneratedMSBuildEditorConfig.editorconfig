@@ -1,0 +1,100 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HermesTravel
+build_property.RootNamespace = HermesTravel
+build_property.ProjectDir = /home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Pages/Account.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Pages/FavoritePoints.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmF2b3JpdGVQb2ludHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Pages/Friends.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRnJpZW5kcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Pages/FriendsRouteHistory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRnJpZW5kc1JvdXRlSGlzdG9yeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Pages/InterestPoints.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW50ZXJlc3RQb2ludHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Pages/NewInterestPoint.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTmV3SW50ZXJlc3RQb2ludC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Pages/RouteHistoric.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUm91dGVIaXN0b3JpYy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Pages/RoutePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUm91dGVQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Shared/AdminPage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0FkbWluUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Shared/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0hvbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Shared/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0xvZ2luTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Shared/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1JlZ2lzdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zx38todyzf
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wpzgz6el6h
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/joana/Desktop/Uni/2122/LI4/Projeto_LI4/HermesTravel/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
